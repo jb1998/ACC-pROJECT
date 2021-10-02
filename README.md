@@ -1,5 +1,7 @@
 # ASE MAC Project :fire:
 
+:octocat: This is a private repository with limited access only to project members. The repository will be made public after submission. The idea is to understand the algorithms and develop a search algorithm
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/jb1998/Coding-Contest-by-IEEE)  &nbsp;&nbsp;
 
 [![GitHub stars](https://img.shields.io/github/stars/jb1998/ASE-Project.svg?style=social&label=Star)](https://github.com/jb1998/ASE-Project)
