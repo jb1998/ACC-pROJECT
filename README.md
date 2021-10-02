@@ -1,4 +1,4 @@
-# ASE MAC Project :fire:
+# ACC MAC Project :fire:
 
 :octocat: This is a private repository with limited access only to project members. The repository will be made public after submission. The idea is to understand the algorithms and develop a search algorithm
 
