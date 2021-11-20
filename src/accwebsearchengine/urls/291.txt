@@ -1,0 +1,2 @@
+http://maps.google.ca?q=33+Princess+Street%2C+Leamington%2C+ON%2C+%2C+ca
+Google Maps When you have eliminated the JavaScript, whatever remains must be an empty page. Enable JavaScript to see Google Maps.
