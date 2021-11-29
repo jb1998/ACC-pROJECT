@@ -24,9 +24,8 @@
 
 
 ## Prerequisites :heavy_check_mark:
-:octocat: You can just run the code on any IDEs like Visual Studio, Sublime but this code setup is done on visual studoi.
+:octocat: You can just run the code on any IDEs like eclipse, Visual Studio, Sublime but this code setup is done on eclipse
 
-:octocat: Basic knowledge of React JS and Firebase can get you started with code
 
 ## Authors
 - Bhargav Sai Karicheti
