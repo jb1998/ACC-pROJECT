@@ -29,6 +29,8 @@
 :octocat: Basic knowledge of React JS and Firebase can get you started with code
 
 ## Authors
- -  [Jatin Bindra](https://www.linkedin.com/in/jb1998/)
- - Have to add other authors(ask in group to get linkedin links) 
-
+- Bhargav Sai Karicheti
+- Deepaksai Valluru
+- Jatin Bindra 
+- Vijay Kumar Chinthalapudi
+- Yuva Venkata Sai Duppati
